@@ -6,9 +6,6 @@ As part of a university-related project, collaborated on developing clock functi
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-### Built With
-
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
