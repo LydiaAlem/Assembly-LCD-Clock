@@ -3,7 +3,7 @@
 
 As part of a university-related project, collaborated on developing clock functions using both C and x86-64 assembly. Successfully implemented a range of clock-related features, showcasing proficiency in both programming languages.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- * [![Next][Next.js]][Next-url]
@@ -14,10 +14,6 @@ As part of a university-related project, collaborated on developing clock functi
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url] -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
