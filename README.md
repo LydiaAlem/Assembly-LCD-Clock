@@ -17,7 +17,6 @@ As part of a university-related project, collaborated on developing clock functi
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url] -->
-[![React][React.js]][Make-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
