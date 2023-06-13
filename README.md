@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+As part of a university-related project, collaborated on developing clock functions using both C and x86-64 assembly. Successfully implemented a range of clock-related features, showcasing proficiency in both programming languages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
