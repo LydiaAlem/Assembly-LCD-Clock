@@ -39,18 +39,12 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Download VS Code [Click here for more info!](https://code.visualstudio.com/download)
+2. Install the ```C/C++ Extension``` [Click here for more info!](https://www.codingninjas.com/codestudio/library/how-to-setup-and-program-in-c-in-vs-code)
+3. Ensure Make is Installed [Click here for more info!](https://gnuwin32.sourceforge.net/packages/make.htm)
+4. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   git clone https://github.com/LydiaAlem/Assembly-LCD-Clock-Display-Functions.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
