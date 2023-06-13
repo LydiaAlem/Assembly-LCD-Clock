@@ -18,8 +18,6 @@ As part of a university-related project, collaborated on developing clock functi
 <!-- GETTING STARTED -->
 ## Getting Started
 
-[...]
-
 ### Installation
 
 1. Download VS Code [Click here for more info!](https://code.visualstudio.com/download)
