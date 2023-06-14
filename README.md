@@ -22,7 +22,7 @@ As part of a university-related project, collaborated on developing clock functi
 
 1. Download VS Code [Click here for more info!](https://code.visualstudio.com/download)
 2. Install the ```C/C++ Extension``` [Click here for more info!](https://www.codingninjas.com/codestudio/library/how-to-setup-and-program-in-c-in-vs-code)
-3. Ensure Make is Installed [Click here for more info!](https://gnuwin32.sourceforge.net/packages/make.htm)
+3. Ensure ```Make``` is Installed [Click here for more info!](https://gnuwin32.sourceforge.net/packages/make.htm)
 4. Clone the repo
    ```sh
    git clone https://github.com/LydiaAlem/Assembly-LCD-Clock-Display-Functions.git
