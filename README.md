@@ -25,7 +25,7 @@ As part of a university-related project, collaborated on developing clock functi
 3. Ensure ```Make``` is Installed [Click here for more info!](https://gnuwin32.sourceforge.net/packages/make.htm)
 4. Clone the repo
    ```sh
-   git clone https://github.com/LydiaAlem/Assembly-LCD-Clock-Display-Functions.git
+   git clone https://github.com/LydiaAlem/Assembly-LCD-Clock.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
