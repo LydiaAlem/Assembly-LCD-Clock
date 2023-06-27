@@ -18,6 +18,16 @@ As part of a university-related project in my Machine Organization course. I dev
 <!-- GETTING STARTED -->
 ## Getting Started
 
+### Languages used:
+
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/8cc24b54-06e5-4c1b-903c-88a8399015a1" alt="C Logo" width="45" height="50">
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/47094296-87e7-48ca-9993-211e8547a05c" alt="Assembly Logo" width="40" height="40"> 
+
+### Software used:
+
+<img src="https://github.com/LydiaAlem/Assembly-LCD-Clock/assets/107647071/06ac4f62-e026-45bc-8292-adb29cfd6c59" alt="Assembly Logo" width="40" height="40"> 
+
+
 ### Installation
 
 1. Download VS Code [Click here for more info!](https://code.visualstudio.com/download)
