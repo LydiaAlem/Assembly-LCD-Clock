@@ -3,21 +3,6 @@
 
 As part of a university-related project in my Machine Organization course. I developed clock functions using both C and x86-64 assembly. I successfully implemented a range of clock-related features, showcasing proficiency in both programming languages!
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-
-<!-- * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url] -->
-
-<!-- GETTING STARTED -->
-## Getting Started
-
 ### Languages used:
 
 <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/8cc24b54-06e5-4c1b-903c-88a8399015a1" alt="C Logo" width="45" height="50">
@@ -27,6 +12,9 @@ As part of a university-related project in my Machine Organization course. I dev
 
 <img src="https://github.com/LydiaAlem/Assembly-LCD-Clock/assets/107647071/06ac4f62-e026-45bc-8292-adb29cfd6c59" alt="Assembly Logo" width="40" height="40"> 
 
+
+<!-- GETTING STARTED -->
+## Getting Started
 
 ### Installation
 
