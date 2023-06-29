@@ -6,7 +6,7 @@ As part of a university-related project in my Machine Organization course. I dev
 ### Languages used:
 
 <img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/8cc24b54-06e5-4c1b-903c-88a8399015a1" alt="C Logo" width="45" height="50">
-<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/47094296-87e7-48ca-9993-211e8547a05c" alt="Assembly Logo" width="55" height="60"> 
+<img src="https://github.com/LydiaAlem/LydiaAlem/assets/107647071/47094296-87e7-48ca-9993-211e8547a05c" alt="Assembly Logo" width="63" height="60"> 
 
 ### Software used:
 
