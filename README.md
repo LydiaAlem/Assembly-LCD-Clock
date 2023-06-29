@@ -10,7 +10,7 @@ As part of a university-related project in my Machine Organization course. I dev
 
 ### Software used:
 
-<img src="https://github.com/LydiaAlem/Assembly-LCD-Clock/assets/107647071/06ac4f62-e026-45bc-8292-adb29cfd6c59" alt="VS Logo" width="40" height="40"> 
+<img src="https://github.com/LydiaAlem/Assembly-LCD-Clock/assets/107647071/06ac4f62-e026-45bc-8292-adb29cfd6c59" alt="VS Logo" width="50" height="50"> 
 
 <img src="https://github.com/LydiaAlem/Assembly-LCD-Clock/assets/107647071/a15bb8df-3f9a-4341-8329-0412b951fbde" alt="linus Logo" width="50" height="50"> 
 
