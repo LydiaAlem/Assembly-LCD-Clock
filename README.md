@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project :)
 
-As part of a university-related project in my Machine Organization course. I developed clock functions using both C and x86-64 assembly. I successfully implemented a range of clock-related features, showcasing proficiency in both programming languages!
+As part of a university-related project in my Machine Organization course (csci 2021). I developed clock functions using both C and x86-64 assembly. I successfully implemented a range of clock-related features, showcasing proficiency in both programming languages!
 
 ### Languages used:
 
